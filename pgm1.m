@@ -18,6 +18,7 @@ int main (int argc, const char * argv[]) {
 	
 	NSLog(@"Summan av %i minus %i är %i",value1, value2, sum);
 	NSLog(@"Tha fraction is %i/%i",tal1, tal2);
+    NSLog("testing");
     
 	
     [pool drain];
